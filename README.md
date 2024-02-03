@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a final year student, pursuing B-Tech in the Field of I.T from Shri Ramswaroop Memorial College of Engineering and Management.<br>Technology excites me, and am always fascinated how fast it is revolutionizing the world. Skills that I have worked with include Data Structure and Algorithm (C++), Web Development (React.js, Node.js , MY SQL), Linux OS, and what I might lack I make up for with my determination to learn.
+I am a final year student, pursuing B-Tech in the Field of I.T from Shri Ramswaroop Memorial College of Engineering and Management.<br>Technology excites me, and am always fascinated how fast it is revolutionizing the world. Skills that I have worked with include Data Structure and Algorithm (C++), Web Development (React.js, Node.js , Express.js, MY SQL), Linux OS, and what I might lack I make up for with my determination to learn.
 
 
 ## 🌐 Socials:
